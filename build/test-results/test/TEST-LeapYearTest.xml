@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="LeapYearTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2017-06-05T19:39:04" hostname="DESKTOP-CSR7OCA" time="0.003">
+<testsuite name="LeapYearTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2017-06-05T19:48:41" hostname="DESKTOP-CSR7OCA" time="0.002">
   <properties/>
-  <testcase name="isLeapYear_NumNotDivisibleBy4_false" classname="LeapYearTest" time="0.002"/>
+  <testcase name="isLeapYear_NumNotDivisibleBy4_false" classname="LeapYearTest" time="0.001"/>
   <testcase name="isLeapYear_forMultiplesOf400_true" classname="LeapYearTest" time="0.0"/>
   <testcase name="isLeapYear_NumDivisibleBy4_true" classname="LeapYearTest" time="0.0"/>
   <testcase name="isLeapYear_forMultiplesOf100_false" classname="LeapYearTest" time="0.0"/>
